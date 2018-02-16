@@ -1,0 +1,3 @@
+The system shall have a search box to enter ingredients, and will return a list of relevant recipes.
+The system will allow users the option to display nutrition facts for recipes
+The system will display procedural steps of how to prepare theh food.
