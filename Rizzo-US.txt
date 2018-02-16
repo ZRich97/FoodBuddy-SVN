@@ -1,0 +1,3 @@
+As a Mom with picky kids, I want to be able to search for recipes with ingredients they like, so that I always prepare meals they like.
+As a Nutritionist, I want to have access to nutrition facts, so that I know what I am giving my clients.
+As I am new to cooking, I want recipes to ahve steps on how to make the food, so that I can make the food
