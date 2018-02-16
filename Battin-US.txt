@@ -1,0 +1,5 @@
+1. As	a	beginning	cook,	I	want	detailed	cooking	instructions	and	ingredient lists,	so	I	know	
+exactly	what	to	do	and	when.
+2. As	a	regular	user,	I	want	to	be	recommended	new	recipes,	so	I	can	try	out	new	foods.
+3. As	someone	with	a	limited	budget,	I	want	to	be	given	recipes	using	only	the	ingredients I	
+currently	have,	so	that	I	don’t have	to	spend	more	money.
