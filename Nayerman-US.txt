@@ -1,0 +1,3 @@
+As a college student, I want an app that easily lets me see what I can cook using the ingredients I own
+As a lazy person, I don’t want to leave my house and I only want to cook using what’s available at my house
+As a mom with picky kids, I want to be able search for recipes with ingredients they like, so that I always prepare meals they like

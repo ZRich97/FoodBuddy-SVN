@@ -1,0 +1,3 @@
+The system shall allow users to save recipes to custom lists
+The system shall differentiate ingredients that the user owns from ingredients the user doesn't own
+The system shall allow users to search for recipes that include user-entered ingredients
