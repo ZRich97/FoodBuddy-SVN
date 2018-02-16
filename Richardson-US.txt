@@ -1,0 +1,6 @@
+1. As a college student, I want access to varied recipes using ingredients I have on hand, so I can
+eat different meals without shopping too often.
+2. As a vegetarian, I want to view recipes fitting my dietary restrictions, so that I can more easily
+adhere to them while still having varied meals.
+3. As a busy user, I want access to quick, easy recipes, so I can go about my day without worrying
+about what I’ll be eating each day.
