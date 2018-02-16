@@ -1,0 +1,6 @@
+As a user, I want to copy specific ingredients, so that I can add them to a grocery list.
+
+As a user, I want to read recipe reviews and ratings, so that I can assess whether a recipe is good or not.
+
+As a user, I want to view a recipe’s time requirement, so that I can determine whether it is feasible.
+
