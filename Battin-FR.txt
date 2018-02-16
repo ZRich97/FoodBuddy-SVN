@@ -1,0 +1,3 @@
+The system shall provide step by step cooking instructions.
+The system shall provide recipe recommendations.
+The system shall provide the option to filter recipes by ingredients.
